@@ -123,8 +123,7 @@ In the app you can:
 - **Delete your account** (removes cloud backup and Firebase auth where supported)  
 - **Manage or cancel** your subscription in the App Store or Google Play  
 
-To request help: **support@rethread.app**  
-*(Replace with your real support email before publishing.)*
+To request help: **fofint.official@gmail.com**  
 
 ---
 
@@ -155,9 +154,8 @@ We may update this Privacy Policy. We will post the new version with an updated 
 ## 11. Contact
 
 **Rethread**  
-**Email:** support@rethread.app  
+**Email:** fofint.official@gmail.com
 
-*(Replace with your real support email before publishing.)*
 
 ---
 
@@ -172,5 +170,3 @@ If you are in India, you may contact us to exercise rights under applicable law,
 If we offer the Service in the EEA/UK, you may have additional rights under GDPR. Contact us at the email above.
 
 ---
-
-*This Privacy Policy is a template for early release. Have a qualified attorney review it before wide commercial launch.*
