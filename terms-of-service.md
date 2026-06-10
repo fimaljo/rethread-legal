@@ -141,10 +141,6 @@ These Terms are governed by the laws of **India**, without regard to conflict-of
 
 Questions about these Terms:
 
-**Email:** support@rethread.app  
-
-*(Replace with your real support email before publishing.)*
+**Email:** fofint.official@gmail.com
 
 ---
-
-*These Terms are a template for early release. Have a qualified attorney review them before wide commercial launch.*
