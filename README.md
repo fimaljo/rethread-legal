@@ -18,4 +18,4 @@ After enabling **GitHub Pages** (Settings → Pages → branch `main`, folder `/
 
 ## Contact
 
-**fofint.official@gmail.com** — replace with your real support email in the markdown files before wide release.
+**fofint.official@gmail.com**
